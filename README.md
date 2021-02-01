@@ -1,3 +1,3 @@
 # react-native-flatlist
 
-![info-gif](flatlist.gif) 
+![info-gif](./assets/flatlist.gif) 

@@ -1,4 +1,4 @@
 # react-native-flatlist
-Pulling a 10-person contact list from the internet and printing a flatlist
+A 10-piece json fragmentation
 
 ![info-gif](./assets/flatlist.gif) 
